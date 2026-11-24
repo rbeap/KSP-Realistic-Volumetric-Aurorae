@@ -1,2 +1,0 @@
-the built plugin goes here as  RealisticVolumetricAurorae.dll
-(Plugin\bin\Release\RealisticVolumetricAurorae.dll)

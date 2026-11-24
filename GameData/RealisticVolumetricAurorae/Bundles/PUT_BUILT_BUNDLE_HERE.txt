@@ -1,2 +1,0 @@
-the shader bundle goes here as  rva_shaders  (no extension)
-built in Unity 2019.4.18f1, menu RVA > Build Shader Bundle
