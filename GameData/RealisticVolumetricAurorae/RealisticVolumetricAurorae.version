@@ -1,0 +1,9 @@
+{
+    "NAME": "Realistic Volumetric Aurorae",
+    "URL": "https://raw.githubusercontent.com/HereComesTheBoom69/KSP-Realistic-Volumetric-Aurorae/main/GameData/RealisticVolumetricAurorae/RealisticVolumetricAurorae.version",
+    "DOWNLOAD": "https://github.com/HereComesTheBoom69/KSP-Realistic-Volumetric-Aurorae/releases",
+    "VERSION": { "MAJOR": 1, "MINOR": 3, "PATCH": 0, "BUILD": 0 },
+    "KSP_VERSION": { "MAJOR": 1, "MINOR": 13, "PATCH": 0 },
+    "KSP_VERSION_MIN": { "MAJOR": 1, "MINOR": 12, "PATCH": 0 },
+    "KSP_VERSION_MAX": { "MAJOR": 1, "MINOR": 13, "PATCH": 99 }
+}
