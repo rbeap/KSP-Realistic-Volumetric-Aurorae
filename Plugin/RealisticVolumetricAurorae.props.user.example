@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copy to RealisticVolumetricAurorae.props.user and point at your KSP install. -->
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <KSPBT_GameRoot>C:\KSP</KSPBT_GameRoot>
+  </PropertyGroup>
+</Project>

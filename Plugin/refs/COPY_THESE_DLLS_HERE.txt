@@ -1,0 +1,12 @@
+copy these 8 from  <KSP>\KSP_x64_Data\Managed\  into this folder:
+
+  Assembly-CSharp.dll
+  UnityEngine.dll
+  UnityEngine.CoreModule.dll
+  UnityEngine.PhysicsModule.dll
+  UnityEngine.AssetBundleModule.dll
+  UnityEngine.AnimationModule.dll       (stock application launcher)
+  UnityEngine.IMGUIModule.dll          (Sol toolbar window)
+  UnityEngine.InputLegacyModule.dll    (Sol window pointer input)
+
+Copy Local is off on all of them so they dont end up in the build output or the mod.

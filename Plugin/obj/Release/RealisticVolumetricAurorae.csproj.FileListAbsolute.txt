@@ -1,0 +1,14 @@
+C:\Users\grace\Desktop\KSP\_Built\GameData\RealisticVolumetricAurorae\Plugins\RealisticVolumetricAurorae.dll
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.csproj.AssemblyReference.cache
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.AssemblyInfoInputs.cache
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.AssemblyInfo.cs
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.dll
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\bin\Release\RealisticVolumetricAurorae.dll
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.csproj.AssemblyReference.cache
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.AssemblyInfoInputs.cache
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.AssemblyInfo.cs
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\KSP\KSP-Realistic-Volumetric-Aurorae-main\Plugin\obj\Release\RealisticVolumetricAurorae.dll
